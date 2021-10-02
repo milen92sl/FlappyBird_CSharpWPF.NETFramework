@@ -1,0 +1,29 @@
+﻿<Window x:Class="CrazyBird.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrazyBird"
+        mc:Ignorable="d"
+        Title="Flappy Bird Game in WPF by Moo ICT" Height="490" Width="525" FocusManager.FocusedElement="{Binding ElementName=myCanvas}" KeyDown="Canvas_KeyisDown" KeyUp="Canvas_KeyisUp">
+ 
+    <Canvas Name="MyCanvas" Focusable="True" Background="LightBlue">
+ 
+        <Image Height="145" Width="207" Source="images/clouds.png" Canvas.Left="20" Canvas.Top="10" Tag="clouds"/>
+        <Image Height="145" Width="207" Source="images/clouds2.png" Canvas.Left="300" Canvas.Top="96" Tag="clouds"/>
+ 
+        <Image Height="389" Width="75" Source="images/pipeBottom.png"  Canvas.Left="107" Canvas.Top="283" Tag="obs1"/>
+        <Image Height="387" Width="66" Source="images/pipeTop.png" Canvas.Left="107" Canvas.Top="-254" Tag="obs1"/>
+ 
+        <Image Height="389" Width="75" Source="images/pipeBottom.png"  Canvas.Left="280" Canvas.Top="327" Tag="obs2"/>
+        <Image Height="387" Width="66" Source="images/pipeTop.png" Canvas.Left="280" Canvas.Top="-182" Tag="obs2"/>
+ 
+        <Image Height="389" Width="75" Source="images/pipeBottom.png"  Canvas.Left="451" Canvas.Top="224" Tag="obs3"/>
+        <Image Height="387" Width="66" Source="images/pipeTop.png" Canvas.Left="451" Canvas.Top="-291" Tag="obs3"/>
+ 
+        <Label Name="scoreText" FontSize="20" Content="Score: 0" />
+ 
+        <Image Stretch="Fill" Name="flappyBird" Height="37" Width="50" Source="images/flappyBird.png" Canvas.Left="20" Canvas.Top="174" />
+ 
+    </Canvas>
+</Window>

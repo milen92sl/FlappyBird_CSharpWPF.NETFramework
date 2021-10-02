@@ -1,0 +1,15 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\bin\Debug\CrazyBird.exe.config
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\bin\Debug\CrazyBird.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\bin\Debug\CrazyBird.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.csproj.AssemblyReference.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\MainWindow.g.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\App.g.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird_MarkupCompile.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird_MarkupCompile.lref
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\MainWindow.baml
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.g.resources
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.Properties.Resources.resources
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.csproj.GenerateResource.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.csproj.CoreCompileInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\CrazyBird_Game\CrazyBird\obj\Debug\CrazyBird.pdb
