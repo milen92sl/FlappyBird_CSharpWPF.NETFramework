@@ -1,0 +1,14 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\MainWindow.g.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\App.g.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\CrazyBird_MarkupCompile.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\CrazyBird_MarkupCompile.lref
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\CrazyBird.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\CrazyBird.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\bin\Debug\CrazyBird.exe.config
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\bin\Debug\CrazyBird.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\bin\Debug\CrazyBird.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\MainWindow.baml
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\CrazyBird.g.resources
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\CrazyBird.Properties.Resources.resources
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\ASP.NET Core\FlappyBird_Game\FlappyBird_CsharpWPF.NETFramework\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
