@@ -1,7 +1,10 @@
 # FlappyBird created on CSharp WPF.NET Framework
+
+[Image](https://user-images.githubusercontent.com/58393766/188265934-74c0c55c-e537-4296-a7c0-91736eb7d1a6.PNG)
+
 Project objectives:
 
-1).Create a fun and engaging flappy bird game in visual studio.
+1).Create a fun and engaging flappy bird game in visual studio!
 
 2).Use the new WPF format to make games.
 
