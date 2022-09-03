@@ -1,6 +1,6 @@
 # FlappyBird created on CSharp WPF.NET Framework
 
-<img width="300" height="150" src="https://user-images.githubusercontent.com/58393766/188265934-74c0c55c-e537-4296-a7c0-91736eb7d1a6.PNG">
+<img width="300" height="150" src="https://user-images.githubusercontent.com/58393766/188266033-76f3d286-6570-4000-ba4b-87fb676a9aa2.PNG">
 
 Project objectives:
 
